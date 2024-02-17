@@ -1,4 +1,5 @@
 # DashGPT
+I didn't want to say this but... heres the only decent ChatGPT Geometry Dash Level Generator that actually is decent.
 ## Instructions
 1. Get ChatGPT and Geode SDK with GDShare.
 2. Send prompt from prompt.txt and then send "dashgpt".
